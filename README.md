@@ -8,6 +8,38 @@
 
 ---
 
+
+### Paper
+
+**FCGHunter: Towards Evaluating Robustness of Graph-Based Android Malware Detection**
+
+Shiwen Song, Xiaofei Xie, Ruitao Feng, Qi Guo, and Sen Chen.
+
+*IEEE Transactions on Software Engineering (TSE)*, Vol. 52, pp. 428–448, February 2026.
+
+📄 **[Paper (IEEE Xplore)](https://ieeexplore.ieee.org/document/11231183)**
+
+### Citation
+
+If you use FCGHunter in your research, please cite our paper:
+
+```bibtex
+@article{song2026fcghunter,
+  title={FCGHunter: Towards Evaluating Robustness of Graph-Based Android Malware Detection},
+  author={Song, Shiwen and Xie, Xiaofei and Feng, Ruitao and Guo, Qi and Chen, Sen},
+  journal={IEEE Transactions on Software Engineering},
+  volume={52},
+  pages={428--448},
+  year={2026},
+  doi={10.1109/TSE.2025.3626788},
+  publisher={IEEE}
+}
+```
+
+---
+
+
+
 ### 1. Dataset 
 
 **(1). Attack Samples**:
